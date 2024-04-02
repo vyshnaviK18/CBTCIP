@@ -47,7 +47,7 @@ In the Time Series Forecasting project, I focused on predicting future values of
 
   
 
-2. Navigate to the respective project directory (`iris_classification` or `time_series_forecasting`).
+2. Navigate to the respective project directory (`IrisClassify` or `Time series forecast`).
 
 3. Run the Jupyter notebooks (`*.ipynb`) to explore the code and results.
 
