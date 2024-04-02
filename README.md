@@ -1,6 +1,6 @@
 # CBTCIP
 
-# Cipher Technologies Data Science Internship
+# CipherByte Technologies Data Science Internship
 
 🌟 Welcome to my Data Science internship at Cipher Technologies! 🌟
 
