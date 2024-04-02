@@ -35,14 +35,7 @@ In the Time Series Forecasting project, I focused on predicting future values of
 - **RMSE (Root Mean Squared Error)**: This metric measures the average magnitude of the errors between predicted and actual values. Lower values indicate better model performance.
 - **MAE (Mean Absolute Error)**: This metric measures the average absolute differences between predicted and actual values. Lower values indicate better model performance.
 
-## Folder Structure
-├── iris_classify/
-│ ├── iris_Classification.ipynb
-│ └── iris_classification_results.png
-├── time_series_forecasting/
-│ ├── Analysis_for_Temperature_Forecasting_in_Germany.ipynb
-│ └── time_series_forecasting_results.png
-└── README.md
+
 
 
 
